@@ -1,0 +1,18 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri":"mysql+pymysql://root:@localhost/test1",
+    "prod_uri": "mysql+pymysql://root:@localhost/test1",
+    "gmail-user":"deepbhalani777@gmail.com",
+    "gamil-password":"patel.deep1277",
+    "no_post": 2,
+    "admin_user": "akshar",
+    "admin_pass": "akshar1277",
+    "upload_location": "C:\\Users\\akshar\\PycharmProjects\\flask\\static"
+
+
+
+  }
+
+}
